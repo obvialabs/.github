@@ -21,6 +21,20 @@ frameworks.
 - [**Blocks**](https://obvia.studio/blocks) – Modular layout structures for dashboards, websites, and applications **(Soon)**
 - [**Templates**](https://obvia.studio/blocks) – Premium website and app templates for rapid deployment **(Soon)**
 - [**Icons**](https://obvia.studio/icons) – Exclusive icon sets crafted for modern apps and consistent design language **(Soon)**
-- [**Fonts**](https://github.com/obvialabs/fonts) – A newly designed font family crafted for designers, developers, and storytellers who demand clarity and impact
+
+### Typeface
+A newly designed font family crafted for designers, developers, and storytellers who demand clarity and impact
+
+- [**Obvia Sans**](https://github.com/obvialabs/fonts/tree/main/fonts/Obvia) - A geometric sans-serif crafted for precision
+and readability. Rooted in Swiss modernist principles, it balances simplicity with strength, making it suitable for body text,
+headlines, branding, and large-scale display use.
+
+- [**Obvia Mono**](https://github.com/obvialabs/fonts/tree/main/fonts/ObviaMono) – A monospaced companion to Obvia Sans. Designed
+for technical contexts — code editors, diagrams, and terminal interfaces — it brings consistency and clarity to environments where
+structure matters most.
+
+- [**Obvia Pixel**](https://github.com/obvialabs/fonts/tree/main/fonts/ObviaPixel) – A playful display family of five pixel-inspired
+styles. Each variant explores a different facet of digital aesthetics, offering bold, decorative forms for logos, posters, and expressive
+headlines.
 
 **Obvia** mainly targets the **Next.js** framework. Although the components and other elements support all frameworks, it will mainly target the **Next.js** framework. Open source and completely **free!**
