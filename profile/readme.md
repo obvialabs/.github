@@ -21,6 +21,6 @@ frameworks.
 - [**Blocks**](https://obvia.studio/blocks) – Modular layout structures for dashboards, websites, and applications **(Soon)**
 - [**Templates**](https://obvia.studio/blocks) – Premium website and app templates for rapid deployment **(Soon)**
 - [**Icons**](https://obvia.studio/icons) – Exclusive icon sets crafted for modern apps and consistent design language **(Soon)**
-- [**Fonts**]([https://obvia.studio/fonts](https://github.com/obvialabs/fonts)) – Custom typography families designed for unique and cohesive branding
+- [**Fonts**](https://github.com/obvialabs/fonts) – Custom typography families designed for unique and cohesive branding
 
 **Obvia** mainly targets the **Next.js** framework. Although the components and other elements support all frameworks, it will mainly target the **Next.js** framework. Open source and completely **free!**
