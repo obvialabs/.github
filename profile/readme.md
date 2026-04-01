@@ -20,7 +20,6 @@ frameworks.
 - [**Interface**](https://obvia.studio/interface) – A design system and UI kit with ready‑to‑use templates for dashboards, websites, and applications **(Soon)**
 - [**Blocks**](https://obvia.studio/blocks) – Modular layout structures for dashboards, websites, and applications **(Soon)**
 - [**Templates**](https://obvia.studio/blocks) – Premium website and app templates for rapid deployment **(Soon)**
-- [**Icons**](https://obvia.studio/icons) – Exclusive icon sets crafted for modern apps and consistent design language **(Soon)**
 
 ### Icons  
 A newly designed icon family crafted for designers, developers, and storytellers who demand clarity and impact
