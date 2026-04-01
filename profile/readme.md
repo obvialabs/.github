@@ -37,19 +37,19 @@ and beyond. Fast, accessible, and designed to keep Obvia at your fingertips wher
 converge. Public or private, personalized or licensed — Registry makes every component accessible, organized, and protected. **(Soon)**  
 
 ### Interface  
-A newly designed design system crafted for designers, developers, and storytellers who demand clarity and impact **(Soon)**  
+A newly designed design system crafted for designers, developers, and storytellers who demand clarity and impact  
 
 - [**Obvia Templates**](https://obvialabs.vercel.app) – Ready‑to‑deploy foundations that accelerate product launches.
-Each template balances structure with flexibility, giving teams a head start without sacrificing creativity.  
+Each template balances structure with flexibility, giving teams a head start without sacrificing creativity. **(Soon)**
 
 - [**Obvia Blocks**](https://obvialabs.vercel.app) – Modular building units designed for rapid composition. Blocks let 
-you assemble pages and flows like Lego pieces — consistent, reusable, and endlessly adaptable.  
+you assemble pages and flows like Lego pieces — consistent, reusable, and endlessly adaptable. **(Soon)**
 
 - [**Obvia Components**](https://obvialabs.vercel.app) – Precision‑engineered UI elements that unify design and code. 
-From buttons to forms, they embody Obvia’s design language while remaining developer‑friendly and extensible.  
+From buttons to forms, they embody Obvia’s design language while remaining developer‑friendly and extensible. **(Soon)**
 
 - [**Obvia Charts**](https://obvialabs.vercel.app) – Visual storytelling tools that transform data into clarity. 
-Crafted for dashboards and reports, they combine geometric precision with expressive readability.  
+Crafted for dashboards and reports, they combine geometric precision with expressive readability. **(Soon)**
 
 ### Icons  
 A newly designed icon family crafted for designers, developers, and storytellers who demand clarity and impact
