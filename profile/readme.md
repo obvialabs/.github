@@ -36,5 +36,3 @@ structure matters most.
 - [**Obvia Pixel**](https://github.com/obvialabs/fonts/tree/main/fonts/ObviaPixel) – A playful display family of five pixel-inspired
 styles. Each variant explores a different facet of digital aesthetics, offering bold, decorative forms for logos, posters, and expressive
 headlines.
-
-**Obvia** mainly targets the **Next.js** framework. Although the components and other elements support all frameworks, it will mainly target the **Next.js** framework. Open source and completely **free!**
