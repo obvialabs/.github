@@ -21,6 +21,8 @@ By unifying typefaces, icons, components, templates, and registries into one coh
 system, Obvia delivers clarity, speed, and joy in every step of creation. It’s not just
 a library of tools — it’s the ecosystem where imagination and intelligence meet.
 
+**Obvia** will forever remain **free** and **open‑source**, continuously developed for everyone.
+
 ### Ecosystem  
 A connected suite of platforms that bring Obvia’s design language to life — from creation to deployment, across every environment
 
