@@ -6,33 +6,63 @@
   </picture>
 </p>
 
-## About
+### About
 
-**Obvia** is a comprehensive library of helpful tools for developers with a powerful, lightweight and dynamic structure that streamlines
-your creation and editing process in your application development process. Makes your application development experience most enjoyable 
-by officially offering you ready-made user interface components for many JavaScript frameworks and web-based application development 
-frameworks.
+Obvia is a next‑generation design and development ecosystem that empowers you to build 
+the way you choose — with your own creativity, or with the support of AI.
 
-### Ecosystem
-- [**Obvia**](https://obvia.studio) – We’ve already laid the foundation for your next big idea — freeing you to build faster and smarter **(Soon)**
-- [**Studio**](https://app.obvia.studio/) – Collaborative space to design, prototype, and manage projects with Obvia tools **(Soon)**
-- [**Console**](https://obvia.studio/console) – A CLI tool providing a streamlined setup and development experience across frameworks **(Soon)**
-- [**Interface**](https://obvia.studio/interface) – A design system and UI kit with ready‑to‑use templates for dashboards, websites, and applications **(Soon)**
-- [**Blocks**](https://obvia.studio/blocks) – Modular layout structures for dashboards, websites, and applications **(Soon)**
-- [**Templates**](https://obvia.studio/blocks) – Premium website and app templates for rapid deployment **(Soon)**
+At its core lies Studio, a collaborative environment where ideas instantly transform 
+into products. As you design, Obvia can automatically generate production‑ready code 
+for every programming language — no manual coding required. Yet it never limits you: 
+whether you prefer to craft by hand or let AI accelerate your process, Obvia adapts 
+to your workflow.
+
+By unifying typefaces, icons, components, templates, and registries into one coherent 
+system, Obvia delivers clarity, speed, and joy in every step of creation. It’s not just
+a library of tools — it’s the ecosystem where imagination and intelligence meet.
+
+### Ecosystem  
+A connected suite of platforms that bring Obvia’s design language to life — from creation to deployment, across every environment **(Soon)**  
+
+- [**Studio**](https://obvialabs.vercel.app) – The collaborative core of Obvia. Design, prototype, and orchestrate
+projects in one unified workspace, built for teams who move from idea to execution without friction.  
+
+- [**Cloud**](https://obvialabs.vercel.app) – The scalable layer that takes your work online. Deploy, sync, and 
+share instantly — ensuring your projects live securely and consistently across the web.  
+
+- [**Hub**](https://obvialabs.vercel.app) – The universal workspace that adapts to every platform — desktop, mobile, 
+and beyond. Fast, accessible, and designed to keep Obvia at your fingertips wherever you build.  
+
+- [**Registry**](https://obvialabs.vercel.app) – The secure hub where Obvia’s fonts, icons, blocks, and templates 
+converge. Public or private, personalized or licensed — Registry makes every component accessible, organized, and protected.  
+
+### Interface  
+A newly designed design system crafted for designers, developers, and storytellers who demand clarity and impact **(Soon)**  
+
+- [**Obvia Templates**](https://obvialabs.vercel.app) – Ready‑to‑deploy foundations that accelerate product launches.
+Each template balances structure with flexibility, giving teams a head start without sacrificing creativity.  
+
+- [**Obvia Blocks**](https://obvialabs.vercel.app) – Modular building units designed for rapid composition. Blocks let 
+you assemble pages and flows like Lego pieces — consistent, reusable, and endlessly adaptable.  
+
+- [**Obvia Components**](https://obvialabs.vercel.app) – Precision‑engineered UI elements that unify design and code. 
+From buttons to forms, they embody Obvia’s design language while remaining developer‑friendly and extensible.  
+
+- [**Obvia Charts**](https://obvialabs.vercel.app) – Visual storytelling tools that transform data into clarity. 
+Crafted for dashboards and reports, they combine geometric precision with expressive readability.  
 
 ### Icons  
 A newly designed icon family crafted for designers, developers, and storytellers who demand clarity and impact
 
-- [**Obvia Solid**](https://github.com/obvialabs/icons) – A geometric, filled icon family built for strength and clarity.
+- [**Obvia Solid**](https://obvialabs.vercel.app) – A geometric, filled icon family built for strength and clarity.
 With bold silhouettes and uncompromising presence, it anchors buttons, navigation, and high‑impact interfaces where 
 decisiveness matters. **(Soon)**
 
-- [**Obvia Outline**](https://github.com/obvialabs/icons) – A refined, line‑based companion that celebrates precision and 
+- [**Obvia Outline**](https://obvialabs.vercel.app) – A refined, line‑based companion that celebrates precision and 
 restraint. Its airy strokes bring elegance to dashboards, minimalistic systems, and modern UI frameworks, balancing clarity 
 with sophistication. **(Soon)**
 
-- [**Obvia Duotone**](https://github.com/obvialabs/icons) – A layered, expressive family that plays with contrast and depth. 
+- [**Obvia Duotone**](https://obvialabs.vercel.app) – A layered, expressive family that plays with contrast and depth. 
 By weaving two tones into each form, it transforms icons into storytellers — perfect for branding, creative apps, and 
 interfaces that demand personality. **(Soon)**
 
