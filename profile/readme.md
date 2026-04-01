@@ -23,19 +23,19 @@ frameworks.
 - [**Icons**](https://obvia.studio/icons) – Exclusive icon sets crafted for modern apps and consistent design language **(Soon)**
 
 ### Icons  
-A newly designed icon family crafted for designers, developers, and storytellers who demand clarity and impact **(Soon)**
+A newly designed icon family crafted for designers, developers, and storytellers who demand clarity and impact
 
 - [**Obvia Solid**](https://github.com/obvialabs/icons) – A geometric, filled icon family built for strength and clarity.
 With bold silhouettes and uncompromising presence, it anchors buttons, navigation, and high‑impact interfaces where 
-decisiveness matters.
+decisiveness matters. **(Soon)**
 
 - [**Obvia Outline**](https://github.com/obvialabs/icons) – A refined, line‑based companion that celebrates precision and 
 restraint. Its airy strokes bring elegance to dashboards, minimalistic systems, and modern UI frameworks, balancing clarity 
-with sophistication.
+with sophistication. **(Soon)**
 
 - [**Obvia Duotone**](https://github.com/obvialabs/icons) – A layered, expressive family that plays with contrast and depth. 
 By weaving two tones into each form, it transforms icons into storytellers — perfect for branding, creative apps, and 
-interfaces that demand personality.
+interfaces that demand personality. **(Soon)**
 
 ### Typeface
 A newly designed font family crafted for designers, developers, and storytellers who demand clarity and impact
