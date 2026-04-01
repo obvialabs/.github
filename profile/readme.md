@@ -22,19 +22,19 @@ system, Obvia delivers clarity, speed, and joy in every step of creation. It’s
 a library of tools — it’s the ecosystem where imagination and intelligence meet.
 
 ### Ecosystem  
-A connected suite of platforms that bring Obvia’s design language to life — from creation to deployment, across every environment **(Soon)**  
+A connected suite of platforms that bring Obvia’s design language to life — from creation to deployment, across every environment
 
 - [**Studio**](https://obvialabs.vercel.app) – The collaborative core of Obvia. Design, prototype, and orchestrate
-projects in one unified workspace, built for teams who move from idea to execution without friction.  
+projects in one unified workspace, built for teams who move from idea to execution without friction. **(Soon)**  
 
 - [**Cloud**](https://obvialabs.vercel.app) – The scalable layer that takes your work online. Deploy, sync, and 
-share instantly — ensuring your projects live securely and consistently across the web.  
+share instantly — ensuring your projects live securely and consistently across the web. **(Soon)**  
 
 - [**Hub**](https://obvialabs.vercel.app) – The universal workspace that adapts to every platform — desktop, mobile, 
-and beyond. Fast, accessible, and designed to keep Obvia at your fingertips wherever you build.  
+and beyond. Fast, accessible, and designed to keep Obvia at your fingertips wherever you build. **(Soon)**  
 
 - [**Registry**](https://obvialabs.vercel.app) – The secure hub where Obvia’s fonts, icons, blocks, and templates 
-converge. Public or private, personalized or licensed — Registry makes every component accessible, organized, and protected.  
+converge. Public or private, personalized or licensed — Registry makes every component accessible, organized, and protected. **(Soon)**  
 
 ### Interface  
 A newly designed design system crafted for designers, developers, and storytellers who demand clarity and impact **(Soon)**  
